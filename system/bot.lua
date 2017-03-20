@@ -229,7 +229,23 @@ function create_config( )
     "supergroup",
     "language",
     "whitelist",
-    "tools"
+    "tools",
+    "Add_bot",
+    "Administrator",
+    "Anti_bot",
+    "Chat",
+    "Date",
+    "Fantasy_writer",
+    "GPS",
+    "Help"
+    "ID",
+    "IP",
+    "Joke",
+    "Kickall",
+    "plugins",
+    "Sendall_GP",
+    "T2I_Pro",	
+    "TTS"
     },
     vip_users = {}, --vip users
     sudo_users = {122779013},--Sudo users
