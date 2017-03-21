@@ -238,7 +238,6 @@ function create_config( )
     "Fantasy_writer",
     "GPS",
     "Help"
-    "IP",
     "Joke",
     "Kickall",
     "plugins",
